@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Build results
+android/app/build/
+ios/build/
+*.apk
+*.ipa
+
+# Temporary files
+*.log
+tmp/
+temp/
+
+# IDE files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
